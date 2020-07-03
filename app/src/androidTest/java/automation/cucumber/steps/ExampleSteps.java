@@ -18,7 +18,6 @@ public class ExampleSteps {
     private Logic logic;
     int number1;
     int number2;
-    int result;
 
     public ExampleSteps(Logic logicP) throws NoSuchPaddingException, NoSuchAlgorithmException {
         logic = logicP;
